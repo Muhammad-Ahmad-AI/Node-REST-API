@@ -1,2 +1,2 @@
 # Node-REST-API
-api with Nodejs and Mongodb
+Rest-api with Nodejs and Mongodb
